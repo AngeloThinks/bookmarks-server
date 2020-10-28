@@ -1,8 +1,7 @@
 {
   "name": "bookmarks-server",
   "version": "1.0.0",
-  "description": "bookmarks-server
-  ",
+  "description": "bookmarks-server",
   "main": "index.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
